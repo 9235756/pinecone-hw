@@ -1,0 +1,9 @@
+local.env
+.env
+__pycache__/
+.venv/
+reports/mock_index.json
+.DS_Store
+*.log.tmp
+.env.*
+!local.env.example

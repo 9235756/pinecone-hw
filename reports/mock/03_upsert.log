@@ -1,0 +1,2 @@
+upserted=22 namespace=cars
+stats={'dimension': 1536, 'namespaces': {'cars': {'vector_count': 22}}, 'total_vector_count': 22}
